@@ -17,4 +17,4 @@
 - Herencia desde ContenidoAudiovisual
 ## Cómo ejecutar el proyecto
 1. Clonar el repositorio:
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Thejoniix/unidad2.git
