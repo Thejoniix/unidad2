@@ -8,8 +8,8 @@
 - Actor
 - Temporada
 - Investigador
-- VideoYouTube
-- Cortometraje
+- Serie netflix
+- Twitch
 ## Relaciones Implementadas
 - Pelicula → Actor (Agregación)
 - SerieDeTV → Temporada (Composición)
